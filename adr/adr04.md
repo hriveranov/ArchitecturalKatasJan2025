@@ -1,6 +1,6 @@
 # Use of guardrails
 We don't want to process obscene, racist, discriminatory, etc. entries, and we
-dont want the model to produce it
+dont want the model to produce them.
 
 ## Status
 Accepted
