@@ -2,7 +2,7 @@
 Case studies involve a large analysis that involves several different criteria.
 
 ## Status
-Propossed
+Proposed
 
 ## Context
 LLMs are good at answering small targeted questions, but not so good at answering

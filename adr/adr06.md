@@ -3,7 +3,7 @@ We want to have insights about why our model behaves when it works correctly,
 and expecially when it doesn't.
 
 ## Status
-Propossed
+Proposed
 
 ## Context
 The LLM is largely a black box. However, we have control on the prompt and
