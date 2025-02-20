@@ -2,7 +2,7 @@
 An LLM is good at working with language, but not at analyzing images
 
 ## Status
-Propossed
+Proposed
 
 ## Context
 Evaluating a case study involves analyzing images. LLMs are not good with them.
