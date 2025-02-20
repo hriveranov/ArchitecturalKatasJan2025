@@ -1,4 +1,4 @@
-# The model should not be allowed to grade if it's accuracy is bellow the threshold
+# The model should not be allowed to grade if it's accuracy is below the threshold
 This ADR is related to ADR 05
 
 ## Status
