@@ -6,7 +6,7 @@ Proposed
 
 ## Context
 Even if a model is deemed accurate in the intial evaluations, its accuracy, defined as
-"how close to a human evaluation", could diminish. 
+"how close to a human evaluation", could diminish over time.
 
 ## Decision
 All answers evaluated by a person will also be evaluated by the model. These will 
